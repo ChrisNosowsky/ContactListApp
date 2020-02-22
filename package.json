@@ -1,0 +1,35 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "a simple mean app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Nosowsky",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^9.0.2",
+    "@angular/http": "^7.2.16",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "mongoose": "^5.9.2",
+    "node-injectable": "^2.1.0",
+    "nodemon": "^2.0.2",
+    "rxjs": "^6.5.4"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^0.900.3",
+    "@angular/cli": "^9.0.3",
+    "@angular/compiler": "^9.0.2",
+    "@angular/compiler-cli": "^9.0.2",
+    "@angular/core": "^9.0.2",
+    "@angular/forms": "^9.0.2",
+    "@angular/platform-browser": "^9.0.2",
+    "@angular/platform-browser-dynamic": "^9.0.2",
+    "bootstrap": "^4.4.1",
+    "zone.js": "^0.10.2"
+  }
+}
